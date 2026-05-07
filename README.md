@@ -117,7 +117,7 @@ Most README generators:
 ## 🌐 Live Demo
 
 > *(Add after deploy)*
-> https://readme-builder.vercel.app
+> https://readmebuilderv.vercel.app/
 
 ---
 
